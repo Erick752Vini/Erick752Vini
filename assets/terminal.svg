@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="290" viewBox="0 0 720 290" role="img" aria-label="Terminal">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
+    .cmd { fill: #e6edf3; font-weight: 700; }
+    .dim { fill: #8b949e; }
+    .ok  { fill: #3fb950; }
+    .out { fill: #8b949e; }
+    .cursor { fill: #3fb950; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="718" height="288" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="1" y1="48" x2="719" y2="48" stroke="#21262d" stroke-width="1.5"/>
+  <text x="28" y="31" class="dim" style="font-size:13px">erick@dev ~/gargalo</text>
+
+  <text x="28" y="86" class="cmd">$ python run.py</text>
+  <text x="46" y="108" class="out"><tspan class="ok">running</tspan> · http://127.0.0.1:5000</text>
+
+  <text x="28" y="146" class="cmd">$ python -m pytest tests</text>
+  <text x="46" y="168" class="out"><tspan class="ok">ok</tspan> · pareto · jack-knife · aprendizado da ML</text>
+
+  <text x="28" y="206" class="cmd">$ git push origin main</text>
+  <text x="46" y="228" class="out"><tspan class="ok">pushed</tspan> · branch main · repo on GitHub</text>
+
+  <text x="28" y="264" class="cmd">$</text>
+  <rect x="46" y="250" width="10" height="18" class="cursor"/>
+</svg>
