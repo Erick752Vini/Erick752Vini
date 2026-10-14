@@ -4,7 +4,7 @@
 
 **Estudante de programação** · Python · JavaScript · Next.js
 
-<sub>Cidade, SP · Disponível para estágio</sub>
+<sub>Pompéia, SP · Disponível para estágio</sub>
 
 </div>
 
