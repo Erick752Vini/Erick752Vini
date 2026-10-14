@@ -10,20 +10,7 @@
 
 <br>
 
-```bash
-erick@dev ~/gargalo
-
-$ python run.py
-  * Running on http://127.0.0.1:5000
-
-$ python -m pytest tests
-  testes · pareto · jack-knife · aprendizado da ML
-
-$ git push origin master
-  pushed · branch master · repo on GitHub
-
-$
-```
+<p align="center"><img src="assets/terminal.svg" width="720" alt="Terminal"></p>
 
 Olá, me chamo **Erick** e sou estudante do curso técnico de **Análise e Desenvolvimento de Sistemas (ADS)** na escola **SENAI Shunji Nishimura**. Gosto de construir projetos reais que resolvem problemas de verdade: um deles é uma ferramenta de **machine learning** aplicada à manutenção industrial, feita para o projeto da **Coca-Cola FEMSA**. Trabalho com **Python**, **JavaScript** e **Next.js**, uso bancos **SQL (MySQL)**, testo com **pytest** e estou sempre aprendendo algo novo. Busco minha primeira oportunidade na área de tecnologia.
 
