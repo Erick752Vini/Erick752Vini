@@ -57,6 +57,4 @@ Ferramenta **local** (roda no computador e no MySQL da rede, sem enviar dados pa
 
 `Python` `Flask` `scikit-learn` `MySQL` `Next.js` `pytest`
 
-```bash
-erick@dev:~$ ./contato.sh
-```
+<p align="center"><img src="https://raw.githubusercontent.com/Erick752Vini/Erick752Vini/output/github-snake-dark.svg" alt="Snake animation" /></p>
